@@ -1,2 +1,2 @@
 # RFM-Analysis
-This is a RFM analysis based project
+This repo contains RFM analysis based projects.
